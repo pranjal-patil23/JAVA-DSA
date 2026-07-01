@@ -27,7 +27,7 @@ This repository contains my solutions to DSA problems solved in Java. I am using
 
 | Topic | Solved |
 |--------|:------:|
-| Arrays | 5|
+| Arrays | 6|
 | Strings | 0 |
 | Binary Search | 0 |
 | Linked List | 0 |
@@ -37,7 +37,7 @@ This repository contains my solutions to DSA problems solved in Java. I am using
 | Graphs | 0 |
 | Dynamic Programming | 0 |
 
-**Total Problems Solved:** 5
+**Total Problems Solved:** 6
 
 ---
 ⭐ I update this repository regularly as I continue my DSA journey.
